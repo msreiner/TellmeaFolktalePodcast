@@ -1,64 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Github Pages Podcast Hosting</title>
-    <googleplay:author>i3130002</googleplay:author>
+    <title>Tell me a Folktale Podcast</title>
+    <googleplay:author>Lise Reiner</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>i3130002</author>
-    <itunes:author>i3130002</itunes:author>
+    <rawvoice:frequency>Bi-Weekly</rawvoice:frequency>
+    <author>Lise Reiner</author>
+    <itunes:author>Lise Reiner</itunes:author>
     <itunes:email>email@example.com</itunes:email>
-    <itunes:category text="Technology" />
+    <itunes:category text="History"> <itunes:category text="Documentary" /></itunes:category><itunes:category text="Mythology"> <itunes:category text="Society &amp; Culture" /></itunes:category>
+
     <image>
-      <url>https://i3130002.github.io/GithubPagesPodcastHosting/icon.jpg</url>
-      <title>Github Pages Podcast Hosting</title>
+      <url>https://github.com/msreiner/TellmeaFolktalePodcast/blob/main/media/tellmeafolktale.jpg</url>
+      <title>Tell me a Folktale Podcast</title>
       <link>https://i3130002.github.io/GithubPagesPodcastHosting/</link>
     </image>
     <itunes:owner>
-      <itunes:name>i3130002</itunes:name>
+      <itunes:name>Lise Reiner</itunes:name>
       <itunes:email>email@example.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>podcast,github,free,hosting</itunes:keywords>
-    <copyright>??????</copyright>
-    <description>Write a description</description>
-    <googleplay:image href="https://i3130002.github.io/GithubPagesPodcastHosting/icon.jpg" />
+    <itunes:keywords>Greek Mythology Podcast, Norse Mythology Stories, Egyptian Mythology Explained, Lost City of Atlantis, Japanese Mythology Legends, Hindu Mythology Stories, Christian Mythological Tales, Chinese Mythology Folktales, Celtic Mythology Podcast, Aztec Mythology Stories, Native American Mythology Legends, Buddhist Mythological Stories, Abrahamic Mythology Narratives, Jewish Zohar Wisdom, Slavic Mythology Tales, West African Mythology Legends, Filipino Mythological Creatures, Sub-Saharan African Folktales, Zoroastrian Mythology Stories, Inupiaq Mythological Legends, Hawaiian Mythology Folklore, Akan Mythological Stories, Diné Mythological Tales, American Mythology Podcast, French Mythological Stories, English Mythological Legends, Hellsing Mythology, Atlantis and Lost Civilizations, Heroic Myths and Legends, Mythology and Ancient Wisdom Podcast, World Mythologies Explained, Timeless Myths of Good vs. Evil, Folktales from Ancient Civilizations, Global Mythology Podcast, Exploring Myths and Legends, Zahhak and Persian Myths.</itunes:keywords>
+    <copyright>Lise Reiner</copyright>
+    <description>Step into a world where ancient myths meet modern conversations! In Tell Me a Folktale, we take you on an enchanting journey through global folktales, legends, and hidden stories that offer wisdom for today’s world.</description>
+    <googleplay:image href="https://github.com/msreiner/TellmeaFolktalePodcast/blob/main/media/tellmeafolktale.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <pubDate>Thu, 10 Oct 2024 13:00:00 PDT</pubDate>
     <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:image href="https://github.com/msreiner/TellmeaFolktalePodcast/blob/main/media/tellmeafolktale.jpg" />
     <item>
-      <author>????????????</author>
-      <itunes:author>????????????</itunes:author>
-      <title>????????????</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <author>Lise Reiner</author>
+      <itunes:author>Lise Reiner</itunes:author>
+      <title>Tell me a Folktale Podcast</title>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 PDT</pubDate>
       <enclosure url="https://i3130002.github.io/media/Some large title at the begining (Episode 01).mp3" type="audio/mpeg" />
-      <itunes:duration>54:08</itunes:duration>
+      <itunes:duration>12:00</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-???????????? - @????????????
 
-https://twitter.com/????????????
-
-https://github.com/????????????
-
-
-???????????? - @????????????
-
-https://twitter.com/????????????
-
-https://github.com/????????????
-
-https://youtube.com/????????????
-
-https://????????????.com
+https://www.instagram.com/lise.reiner/
+https://www.youtube.com/@tellmeafolktale
 
 Our podcast player: 
-
-https://????????????.github.io/xxxxxxxxxx/
-        </description>
+https://github.com/msreiner/tellmeafolktale.github.io   </description>
     </item>
   </channel>
 </rss>
